@@ -1,0 +1,15 @@
+{
+  "projectKey": "#projectKey#",
+  "testCycleKey": "#testCycleKey#",
+  "testCaseKey": "#testCaseKey#",
+  "statusName": "#statusName#",
+  "testScriptResults": [
+    {
+      "statusName": "#statusName#",
+      "actualEndDate": "#date#",
+      "actualResult": "#comment#"
+    }
+  ],
+  "actualEndDate": "#date#",
+  "comment": "#comment#"
+}
